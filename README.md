@@ -1,8 +1,8 @@
-Laboratório de Configuração RAID no Linux (Slax)
+Laboratório de Configuração RAID no Linux
  Projeto desenvolvido a partir da disciplina Arquitetura de Alto Desempenho para Banco de Dados (UNICAMP), ministrada pelo Prof. José Luís Zem.
 
 Este repositório documenta a configuração de diferentes níveis de RAID (0, 1 e 5) 
-em máquinas virtuais Linux (Slax 6.0.7) rodando no Oracle VirtualBox.
+em máquinas virtuais Linux rodando no Oracle VirtualBox.
 
 ## Ambientes configurados
 
