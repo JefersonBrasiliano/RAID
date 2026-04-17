@@ -1,4 +1,5 @@
-Laboratório de Configuração RAID no Linux
+## Laboratório de Configuração RAID no Linux
+<p></p>
  Projeto desenvolvido a partir da disciplina Arquitetura de Alto Desempenho para Banco de Dados (UNICAMP), ministrada pelo Prof. José Luís Zem.
 
 Este repositório documenta a configuração de diferentes níveis de RAID (0, 1 e 5) 
